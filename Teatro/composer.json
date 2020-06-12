@@ -1,0 +1,20 @@
+{
+    "name": "canabarro/teatro",
+    "description": "Projeto final de Programa\u0000\u0000o Web com tem\u0000tica TEATRO",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matheus Canabarro",
+            "email": "matheus.canabarro@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "App\\": "App/"
+      }
+    }
+
+}
